@@ -1,6 +1,12 @@
 # Node.js modules
 node_modules/
 
+node_modules/
+config.json
+*.log
+.DS_Store
+*.env
+
 # MacOS system files
 .DS_Store
 
