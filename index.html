@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kirim Komentar ke Video TikTok</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Kirim Komentar ke Video TikTok</h1>
+        <p>Masukkan URL video TikTok Anda di bawah ini dan klik tombol "KIRIM" untuk mengirim komentar secara otomatis.</p>
+        <form id="tiktok-form">
+            <div class="form-group">
+                <label for="video-url">URL Video TikTok:</label>
+                <input type="url" id="video-url" name="video-url" placeholder="Masukkan URL video TikTok" required>
+            </div>
+            <button type="submit" class="button">KIRIM</button>
+        </form>
+        <div class="progress-container">
+            <div id="progress-bar" class="progress-bar"></div>
+            <div id="progress-percentage" class="progress-percentage">0%</div>
+        </div>
+        <p id="status-message" class="status-message"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
