@@ -16,8 +16,7 @@ Ini adalah alat untuk mengirim komentar secara otomatis ke video TikTok mengguna
 ```
    node script.js
 ```
-  node script.js
-```
+
    
 ## Fitur
 
@@ -28,7 +27,7 @@ Ini adalah alat untuk mengirim komentar secara otomatis ke video TikTok mengguna
 ## Instalasi
 
 1. **Clone repository:**
-   ```bash
+ 
    git clone https://github.com/kdsmedia/tikomen.git
    cd tikomen
 
