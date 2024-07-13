@@ -14,3 +14,20 @@ Ini adalah alat untuk mengirim komentar secara otomatis ke video TikTok mengguna
    ```bash
    git clone https://github.com/kdsmedia/tikomen.git
    cd tikomen
+
+## Lisensi MIT
+
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+### Hak Cipta
+
+Copyright (c) 2024 kdsmedia
+
+### Deskripsi
+
+Perangkat Lunak ini disediakan "SEBAGAIMANA ADANYA", tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada jaminan kelayakan dagang, kesesuaian untuk tujuan tertentu, atau pelanggaran hak cipta. Dalam hal apa pun, penulis atau pemegang hak cipta tidak bertanggung jawab atas klaim, kerusakan, atau kewajiban lainnya, baik dalam tindakan kontrak, kesalahan, atau hal lainnya yang timbul dari atau sehubungan dengan perangkat lunak ini atau penggunaannya.
+
+### Sumber Daya
+
+Untuk informasi lebih lanjut mengenai lisensi MIT, kunjungi [MIT License](https://opensource.org/licenses/MIT).
+
