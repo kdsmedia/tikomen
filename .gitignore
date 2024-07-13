@@ -1,0 +1,51 @@
+# Node.js modules
+node_modules/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-generated files
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignoring test results
+coverage/
+
+# Ignore the package lock files
+package-lock.json
+yarn.lock
+
+# Ignore specific files
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# Ignore files for debugging
+*.patch
+*.bak
+*.orig
+
+# Ignore the README.md if you have a new one to push
+README.md
