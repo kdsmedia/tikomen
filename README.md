@@ -9,6 +9,7 @@ Ini adalah alat untuk mengirim komentar secara otomatis ke video TikTok mengguna
    ```
    pkg update && pkg upgrade
    pkg install git
+   pkg install python
    pkg install nodejs
    pkg install wget
    git clone https://github.com/kdsmedia/tikomen.git
