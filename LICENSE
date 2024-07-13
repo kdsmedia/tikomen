@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2024 kdsmedia
+
+Dengan ini diberikan izin, gratis, kepada siapa saja yang memperoleh salinan dari perangkat lunak ini dan dokumentasi terkait (selanjutnya disebut "Perangkat Lunak"), untuk menggunakan Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensub-lisensikan, dan/atau menjual salinan Perangkat Lunak, dengan syarat sebagai berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak ini.
+
+PERANGKAT LUNAK DITAWARKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN DAGANG, KESESUAIAN UNTUK TUJUAN TERTENTU, ATAU NON-PELANGGARAN. DALAM HAL APA PUN PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN, ATAU HAL LAINNYA YANG TIMBUL DARI, KELUAR DARI, ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK INI ATAU PENGGUNAANNYA.
+
+---
+
+**Ringkasan Lisensi MIT:**
+
+Lisensi MIT adalah lisensi perangkat lunak open source yang memberikan kebebasan kepada pengembang untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensub-lisensikan, dan/atau menjual salinan perangkat lunak, dengan syarat agar pemberitahuan hak cipta dan pemberitahuan izin disertakan dalam salinan perangkat lunak tersebut. Lisensi ini memungkinkan Anda untuk menggunakan perangkat lunak untuk berbagai tujuan, termasuk komersial, tetapi tidak memberikan jaminan atau tanggung jawab apa pun terhadap perangkat lunak.
+
+**Apa yang Diperbolehkan oleh Lisensi MIT:**
+
+- Menggunakan perangkat lunak untuk tujuan pribadi atau komersial.
+- Menyalin, memodifikasi, dan mendistribusikan perangkat lunak dalam bentuk asli atau yang telah dimodifikasi.
+- Menggabungkan perangkat lunak dengan perangkat lunak lain.
+- Menerbitkan perangkat lunak dalam bentuk yang dapat diakses oleh publik, baik dalam bentuk sumber terbuka maupun tertutup.
+
+**Apa yang Tidak Diperbolehkan oleh Lisensi MIT:**
+
+- Menyebarluaskan perangkat lunak tanpa menyertakan pemberitahuan hak cipta dan pemberitahuan izin.
+- Mengklaim bahwa Anda adalah pencipta asli dari perangkat lunak ini.
+- Menggunakan perangkat lunak dengan cara yang melanggar hukum.
+
+**Contoh Penerapan Lisensi MIT di Proyek Anda:**
+
+```markdown
+## Lisensi MIT
+
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
+
+### Hak Cipta
+
+Copyright (c) 2024 kdsmedia
+
+### Deskripsi
+
+Perangkat Lunak ini disediakan "SEBAGAIMANA ADANYA", tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk tetapi tidak terbatas pada jaminan kelayakan dagang, kesesuaian untuk tujuan tertentu, atau pelanggaran hak cipta. Dalam hal apa pun, penulis atau pemegang hak cipta tidak bertanggung jawab atas klaim, kerusakan, atau kewajiban lainnya, baik dalam tindakan kontrak, kesalahan, atau hal lainnya yang timbul dari atau sehubungan dengan perangkat lunak ini atau penggunaannya.
+
+### Sumber Daya
+
+Untuk informasi lebih lanjut mengenai lisensi MIT, kunjungi [MIT License](https://opensource.org/licenses/MIT).
+
