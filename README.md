@@ -2,6 +2,21 @@
 
 Ini adalah alat untuk mengirim komentar secara otomatis ke video TikTok menggunakan akun fake. Alat ini hanya untuk tujuan pendidikan dan simulasi, dan Anda harus mematuhi kebijakan penggunaan TikTok.
 
+## Instalasi
+
+1. **Update dan Upgrade Termux**
+
+   ```
+   pkg update && pkg upgrade
+   pkg install git wget
+   git clone https://github.com/kdsmedia/tikomen.git
+   cd tikomen
+   npm install
+```
+```
+  node script.js
+```
+   
 ## Fitur
 
 - Mengirim 50 komentar secara otomatis ke video TikTok.
